@@ -1,0 +1,5 @@
+git status   //查看有变更的文件
+git add -A
+git commit -m "message"
+git pull
+git push
