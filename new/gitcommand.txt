@@ -1,3 +1,5 @@
+// 添加 upstream 源，只需执行一次
+$ git remote add upstream git@github.com:zhaoda/webpack-handbook.git
 git init    //在当前环境新建一个git目录
 $ git init [project-name]    新建一个目录将其初始化为git代码库
 git status   //查看有变更的文件
