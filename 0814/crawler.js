@@ -1,6 +1,7 @@
 /**
  * Created by jianshan on 16/8/14.
  */
+ /*chrome搜索自身的dns缓存 chrome://net-internals/#dns*/
 var http = require('http');
 var url = 'http://www.imooc.com/learn/348';
 
